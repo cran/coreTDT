@@ -1,0 +1,14 @@
+a710c904676a849923c6e3fb5264c4db *DESCRIPTION
+563558075a401e5dbbce8441df949d73 *NAMESPACE
+ee727d585f2dbf71a1d85a16764b7c60 *R/compHet_TDT_single.R
+67692d36aef5dd529d6f493f45dc9d65 *R/coreTDT_geneset.R
+75127a8217728b79042f203bd8dd7191 *R/coreTDT_single.R
+e9677b2d15de50822c4214f4d9237726 *R/phasing_codes_3_25_2014.R
+decb97d95fee19e62e1e5c84943315d3 *R/pvalue_calculator.R
+d34544f9523091c52c4fedc83f3c16c5 *data/coreTDTexample.RData
+f97a393db1d3f4c153dc808707a81530 *man/FamilyPhase.Rd
+d54ff07506bb87cd7c21c6ab731e61c3 *man/compHet_TDT_v6.Rd
+2f645fc96f53f8dfa22ab20155c30bdc *man/coreTDT.results.2.df.Rd
+f695be0fa61e86cc6420ad38624cc96b *man/coreTDT_geneset.Rd
+117cb45893a0096e6844bb1f788f8536 *man/coreTDTexample.Rd
+f0168eb0d59c61445305ba2597dfecc5 *man/pvalue_calculator.Rd
